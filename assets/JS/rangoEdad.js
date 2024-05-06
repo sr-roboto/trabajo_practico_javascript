@@ -11,5 +11,5 @@ if (edad > 0 && edad < 120) {
         document.write("Usted es un niño")
     }
 } else {
-    document.write("Ingrese una fecha valida")
+    document.write("Ingrese una edad valida")
 }

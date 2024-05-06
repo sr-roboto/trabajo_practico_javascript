@@ -13,7 +13,7 @@ function comparar(a, b) { // una funcion que toma dos parametros del array y los
 
 numeros.sort(comparar); //con el metodo sort ordenamos los elementos de un arreglo
 
-document.write(numeros)
+document.write(`=> ${numeros} =>`)
 
 
 
