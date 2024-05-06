@@ -1,6 +1,6 @@
-let nro1 = parseInt(prompt("Ingrese el primer numero"));
-let nro2 = parseInt(prompt("Ingrese el segundo numero"));
-let nro3 = parseInt(prompt("Ingrese el tercer numero"));
+let nro1 = parseInt(prompt("Ingrese el primer número"));
+let nro2 = parseInt(prompt("Ingrese el segundo número"));
+let nro3 = parseInt(prompt("Ingrese el tercer número"));
 let numeros = [];
 
 numeros.push(nro1)
